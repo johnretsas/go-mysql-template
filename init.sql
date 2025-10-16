@@ -1,0 +1,1 @@
+-- Use this script to initialise your database
